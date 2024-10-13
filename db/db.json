@@ -1,6 +1,12 @@
 [
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
+  {
+    "id": "f2f2edf4-1192-4c03-851e-824620210216",
+    "title": "Here's my first note",
+    "text": "Complete with text"
+  },
+  {
+    "id": "0cb1ca90-40d7-4aaf-8580-9e7b9851b41b",
+    "title": "I can Add or Delete",
+    "text": "Any note that I've already created can also be deleted"
+  }
 ]
