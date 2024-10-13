@@ -21,6 +21,7 @@ Make sure to run an npm i prior to starting the application. This app requires t
 
 ## Usage
 
+- This page is deployed to [Render](https://notetaker-0l4q.onrender.com/)
 - Notes can be added by using the "New Note" button.
 - Once both text and title fields are full, use the "Save Note" button to create the note.
 - The "Clear Form" button can also be used to start with a clean slate
